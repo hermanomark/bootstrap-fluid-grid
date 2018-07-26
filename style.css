@@ -1,0 +1,22 @@
+body {
+  padding: 2rem;
+  background-color: orange;
+}
+
+#animals .card {
+  background-color: rgba(0,0,0,.15);
+  border: 1px solid rgba(0,0,0,.2);
+  font-size: 12px;
+  font-family: Lato;
+  background-color: beige;
+}
+
+#animals .card-body {
+  padding: 1rem;
+}
+
+#animals img {
+  padding-bottom: 20px;
+  width: 100%;
+  height: auto;
+}
